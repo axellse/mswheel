@@ -10,10 +10,11 @@ This is a fully functional steering wheel for use with pc, built with the lego m
 
 # Other info
 This project:
-* Emulates an xbox controller for input
+* Emulates an xbox controller for input.
 * Has no force feedback functionality.
 * Has no other than basic functionality.
 * Requires windows aswell as a pc/laptop with bluetooth.
 * Is very early in development so very shitty.
+* So early in development i haven't uploaded build instructions, just throw something together yourself, im sure it will be fine (thats what this project is anyways).
 
 Tip: dont use the "modulated keypress" mode. it's actually horrendous👍.
