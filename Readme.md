@@ -24,3 +24,5 @@ If you want some help on how to build it:
 ![image](https://cd.axell.me/p/mswheel/front.jpg)
 ![image](https://cd.axell.me/p/mswheel/right.jpg)
 ![image](https://cd.axell.me/p/mswheel/top.jpg)
+
+[all images](https://cd.axell.me/p/mswheel/)
