@@ -17,7 +17,6 @@ This project:
 * Is very early in development so very shitty.
 * So early in development i haven't uploaded build instructions, just throw something together yourself, im sure it will be fine (thats what this project is anyways).
 
-Tip: dont use the "modulated keypress" mode. it's actually horrendous👍.
 # Images
 If you want some help on how to build it:
 ![image](https://cd.axell.me/p/mswheel/back.jpg)
